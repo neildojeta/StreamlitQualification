@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 requests
 configparser
+=======
+requests
+configparser
+>>>>>>> 8678c6376880d826f98e826f6c7441db5461c4b7
 logging
